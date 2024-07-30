@@ -1,0 +1,31 @@
+2024-07-29 16:56:27.510 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-29 16:57:35.365 writer.py[12] send_msg -> 2024-07-29 18:03:15.509 WeChatWindow.py[11] get_window -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', Name: '微信', ControlType: WindowControl}
+2024-07-29 18:09:55.394 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-29 18:20:29.527 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '芯海智控-谢志华', ControlType: EditControl}
+2024-07-29 18:24:10.842 WeChatWindow.py[28] get_chat_lines -> 2024-07-30 11:50:31.582 WeChatWindow.py[11] get_window -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', Name: '微信', ControlType: WindowControl}
+2024-07-30 11:50:42.779 WeChatWindow.py[11] get_window -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', Name: '微信', ControlType: WindowControl}
+2024-07-30 11:50:54.046 WeChatWindow.py[11] get_window -> 2024-07-30 11:50:55.423 WeChatWindow.py[11] get_window -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', Name: '微信', ControlType: WindowControl}
+2024-07-30 11:51:23.048 WeChatWindow.py[28] get_chat_lines -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', Name: '微信', ControlType: WindowControl}
+2024-07-30 11:51:23.081 WeChatWindow.py[28] get_chat_lines -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2024-07-30 11:51:39.751 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2024-07-30 11:51:40.594 writer.py[12] send_msg -> 2024-07-30 14:14:05.109 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '90后空巢老人静心阁(5321)', ControlType: EditControl}
+2024-07-30 14:15:17.524 chat.py[28] chat -> Find Control Timeout(10s): {name: '会话', ControlType: ListControl}
+2024-07-30 14:28:09.073 writer.py[12] send_msg -> 2024-07-30 14:42:12.752 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '芯海智控-谢志华', ControlType: EditControl}
+2024-07-30 15:01:21.463 chat.py[27] chat -> Find Control Timeout(10s): {name: '会话', ControlType: ListControl}
+2024-07-30 15:08:30.759 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-30 15:09:00.197 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '芯海智控-谢志华', ControlType: EditControl}
+2024-07-30 15:09:32.937 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-30 15:10:08.877 writer.py[12] send_msg -> 2024-07-30 15:11:24.396 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-30 15:14:24.622 chat.py[27] chat -> Find Control Timeout(10s): {name: '会话', ControlType: ListControl}
+2024-07-30 15:50:42.290 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '芯海智控-谢志华', ControlType: EditControl}
+2024-07-30 15:52:32.506 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-30 15:53:03.746 writer.py[12] send_msg -> 2024-07-30 15:58:41.747 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '芯海智控-谢志华', ControlType: EditControl}
+2024-07-30 15:59:12.703 writer.py[12] send_msg -> 2024-07-30 16:03:42.762 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '芯海智控-谢志华', ControlType: EditControl}
+2024-07-30 16:14:27.315 WeChatWindow.py[28] get_chat_lines -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2024-07-30 16:14:47.372 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-30 16:21:29.442 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-30 16:22:03.701 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: '芯海智控-谢志华', ControlType: EditControl}
+2024-07-30 16:24:29.081 chat.py[27] chat -> Find Control Timeout(10s): {name: '会话', ControlType: ListControl}
+2024-07-30 16:29:26.080 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-30 16:33:57.555 writer.py[12] send_msg -> Find Control Timeout(10s): {Name: 'Velpro', ControlType: EditControl}
+2024-07-30 16:34:23.679 writer.py[12] send_msg -> 2024-07-30 16:40:41.848 chat.py[27] chat -> Find Control Timeout(10s): {name: '会话', ControlType: ListControl}
